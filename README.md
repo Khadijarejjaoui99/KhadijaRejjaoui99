@@ -25,4 +25,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khadijarejjaoui99&icon=0&color=11)](https://visitcount.itsvg.in)
