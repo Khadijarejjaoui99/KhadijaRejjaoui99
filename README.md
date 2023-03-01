@@ -20,3 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadijarejjaoui99&show_icons=true&locale=en" alt="khadijarejjaoui99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijarejjaoui99&" alt="khadijarejjaoui99" /></p>
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=khadijarejjaoui99&icon=0&color=11)](https://visitcount.itsvg.in)
