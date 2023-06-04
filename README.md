@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijarejjaoui99&show_icons=true&locale=en&layout=compact" alt="khadijarejjaoui99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadijarejjaoui99&show_icons=true&locale=en" alt="khadijarejjaoui99" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijarejjaoui99&" alt="khadijarejjaoui99" /></p>
 
 ---
