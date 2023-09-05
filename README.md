@@ -13,8 +13,6 @@
 
 ---
 
-### About Me
-
 - 💬 Ask me about **C++, JavaScript, MERN stack, HTML, CSS, SQL**
 
 ### Connect with Me
