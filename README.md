@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khadija Rejjaoui</h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 <img align = "right" alt="coding" width = "400" src = "https://img.freepik.com/premium-vector/muslim-hijab-girl-work-from-home-illustration-flat-concept_445085-52.jpg"
-<p align="left"> <a href="https://twitter.com/khadijarejj" target="blank"><img src="https://img.shields.io/twitter/follow/khadijarejj?logo=twitter&style=for-the-badge" alt="khadijarejj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khadijarejj" target="blank"><img src="https://img.shields.io/twitter/follow/AlgorithmicLady?logo=twitter&style=for-the-badge" alt="khadijarejj" /></a> </p>
 
-- 💬 Ask me about **C++, JavaScript, MERN stack, HTML, CSS, SQL**
+- 💬 Ask me about **C++, Python, JavaScript, MERN stack, HTML, CSS, SQL**
 <br>
 
 
